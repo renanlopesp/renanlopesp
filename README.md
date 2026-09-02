@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" width="100%" alt="Renan Lopes — Senior Software Engineer, Full Stack and AI" />
+<img src="./assets/header.svg?v=2" width="100%" alt="Renan Lopes — Senior Software Engineer, Full Stack and AI" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/renan-lopes/"><strong>LinkedIn</strong></a>
