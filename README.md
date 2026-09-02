@@ -22,16 +22,85 @@ My background combines strong frontend engineering with backend development, sys
 
 > Most of my enterprise work lives in private repositories. This profile highlights public reference projects and the technologies behind my professional experience.
 
-## Engineering toolkit
+## Tech stack
 
-| Area | Technologies and practices |
-|---|---|
-| **Frontend** | JavaScript ES6+, TypeScript, React, React Native, Next.js, SSR, HTML5, CSS3, Tailwind, responsive UI, reusable components, performance and accessibility |
-| **Backend & APIs** | Node.js, Python, Rust, Express, REST, GraphQL, Apollo Server, TypeGraphQL, microservices, authentication and system integrations |
-| **Generative AI** | LLM applications, agentic workflows, RAG, function calling, prompt engineering, LangChain, LangGraph, embeddings, vector databases and semantic search |
-| **Data** | PostgreSQL, relational databases, Redis, TypeORM, vector stores, data modeling and query optimization |
-| **Cloud & Platform** | AWS, Docker, Kubernetes, CI/CD, Git, infrastructure-as-code fundamentals, observability, fault handling and production support |
-| **Engineering** | Architecture, distributed systems, code review, technical documentation, security, maintainability, troubleshooting and agile delivery |
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-245F9E?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-17202A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-17202A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/SSR-34495E?style=for-the-badge" alt="Server-Side Rendering" />
+  <img src="https://img.shields.io/badge/HTML5-CB4B16?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-245F9E?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind-0F7185?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+### Backend & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-22633A?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-315A7D?style=for-the-badge&logo=python&logoColor=FFD343" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-252525?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Express-343434?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/REST_APIs-176B87?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/GraphQL-A72D8B?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Apollo_Server-342A7C?style=for-the-badge&logo=apollographql&logoColor=white" alt="Apollo Server" />
+  <img src="https://img.shields.io/badge/TypeGraphQL-C2185B?style=for-the-badge&logo=graphql&logoColor=white" alt="TypeGraphQL" />
+  <img src="https://img.shields.io/badge/Microservices-465A65?style=for-the-badge" alt="Microservices" />
+</p>
+
+### Generative AI & Agentic Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-5B43D6?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/LLMs-6B46C1?style=for-the-badge&logo=openai&logoColor=white" alt="Large Language Models" />
+  <img src="https://img.shields.io/badge/AI_Agents-3F51B5?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/LangChain-176B5B?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-244C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG-7B3FA0?style=for-the-badge" alt="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/Function_Calling-6554C0?style=for-the-badge" alt="Function Calling" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-8E44AD?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Embeddings-3949AB?style=for-the-badge" alt="Embeddings" />
+  <img src="https://img.shields.io/badge/Semantic_Search-00695C?style=for-the-badge" alt="Semantic Search" />
+  <img src="https://img.shields.io/badge/Vector_Databases-37474F?style=for-the-badge" alt="Vector Databases" />
+</p>
+
+### Data & Persistence
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-315F8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-245A72?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-A62C2B?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/TypeORM-E43F32?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM" />
+  <img src="https://img.shields.io/badge/Data_Modeling-455A64?style=for-the-badge" alt="Data Modeling" />
+</p>
+
+### Cloud, DevOps & Platform
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-1769AA?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-2857B7?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-B6422D?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/CI%2FCD-00796B?style=for-the-badge" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Infrastructure_as_Code-5C4EE5?style=for-the-badge" alt="Infrastructure as Code" />
+  <img src="https://img.shields.io/badge/Observability-9C4A1A?style=for-the-badge" alt="Observability" />
+  <img src="https://img.shields.io/badge/MLOps-37474F?style=for-the-badge" alt="MLOps" />
+</p>
+
+### Testing & Engineering Practices
+
+<p>
+  <img src="https://img.shields.io/badge/Jest-8C2F47?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Code_Review-294E70?style=for-the-badge" alt="Code Review" />
+  <img src="https://img.shields.io/badge/Distributed_Systems-37474F?style=for-the-badge" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/Software_Architecture-1F4E5F?style=for-the-badge" alt="Software Architecture" />
+  <img src="https://img.shields.io/badge/Agile_Delivery-116466?style=for-the-badge" alt="Agile Delivery" />
+</p>
 
 ## Selected professional experience
 
