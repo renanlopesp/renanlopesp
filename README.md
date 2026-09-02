@@ -1,61 +1,127 @@
-<img src="./assets/header.svg" width="100%" alt="Renan Lopes — Senior Full Stack Engineer" />
+<img src="./assets/header.svg" width="100%" alt="Renan Lopes — Senior Software Engineer, Full Stack and AI" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/renan-lopes/">LinkedIn</a>
-  ·
-  <a href="mailto:renanlopesp@gmail.com">Email</a>
-  ·
-  <a href="https://github.com/renanlopesp?tab=repositories">Repositories</a>
+  <a href="https://www.linkedin.com/in/renan-lopes/"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:renanlopesp@gmail.com"><strong>Email</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/renanlopesp?tab=repositories"><strong>Repositories</strong></a>
 </p>
 
-## About
+## Hello, I'm Renan
 
-Senior Full Stack Engineer with 15+ years of experience building and evolving web products, SaaS platforms, high-traffic content applications, and e-commerce solutions.
+I'm a **Senior Software Engineer** based in Curitiba, Brazil, with **15+ years of experience** building web products, SaaS platforms, high-traffic content applications, e-commerce systems, APIs, and AI-enabled solutions.
 
-I work across **Node.js, TypeScript, React, Next.js, Python, APIs, and distributed systems**, with recent experience integrating **Generative AI, LLM agents, RAG, and semantic search** into production-oriented applications.
+My background combines strong frontend engineering with backend development, systems integration, cloud delivery, and recent hands-on work with Generative AI. I enjoy turning complex business requirements into practical, maintainable software—from interface and API design to production troubleshooting and technical direction.
 
-- Building maintainable web applications from frontend to backend
-- Designing APIs, integrations, and microservices
-- Working with performance, observability, and production troubleshooting
-- Turning product requirements into pragmatic technical solutions
+- **Full Stack:** Node.js, TypeScript, React, Next.js, Python, REST, GraphQL
+- **AI Engineering:** LLMs, agents, RAG, function calling, embeddings, semantic search
+- **Architecture:** microservices, distributed systems, integrations, security, scalability
+- **Delivery:** AWS, Docker, Kubernetes, CI/CD, observability, production support
+- **Collaboration:** technical leadership, architecture decisions, product discovery, stakeholder communication
 
-> Most of my enterprise work has been developed in private repositories. The projects below represent selected public experiments and reference implementations.
+> Most of my enterprise work lives in private repositories. This profile highlights public reference projects and the technologies behind my professional experience.
 
-## Core stack
+## Engineering toolkit
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-1f6f43?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/TypeScript-245f9e?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-202b3c?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Python-315a7d?style=flat-square&logo=python&logoColor=ffd343" alt="Python" />
-  <img src="https://img.shields.io/badge/GraphQL-b83280?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-315f8c?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-1769aa?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazonwebservices&logoColor=ff9900" alt="AWS" />
-</p>
+| Area | Technologies and practices |
+|---|---|
+| **Frontend** | JavaScript ES6+, TypeScript, React, React Native, Next.js, SSR, HTML5, CSS3, Tailwind, responsive UI, reusable components, performance and accessibility |
+| **Backend & APIs** | Node.js, Python, Rust, Express, REST, GraphQL, Apollo Server, TypeGraphQL, microservices, authentication and system integrations |
+| **Generative AI** | LLM applications, agentic workflows, RAG, function calling, prompt engineering, LangChain, LangGraph, embeddings, vector databases and semantic search |
+| **Data** | PostgreSQL, relational databases, Redis, TypeORM, vector stores, data modeling and query optimization |
+| **Cloud & Platform** | AWS, Docker, Kubernetes, CI/CD, Git, infrastructure-as-code fundamentals, observability, fault handling and production support |
+| **Engineering** | Architecture, distributed systems, code review, technical documentation, security, maintainability, troubleshooting and agile delivery |
 
-## Selected work
+## Selected professional experience
+
+### Senior Technology Consultant — AI Engineering · SuperSkills
+`2025–2026` · Remote collaboration with a US-based company
+
+- Built and integrated Generative AI capabilities for multimedia and e-commerce products.
+- Developed LLM agents and workflows using RAG, function calling, embeddings, semantic search, and external tools.
+- Created services, APIs, proofs of concept, reusable components, and reference architectures with Node.js and Python.
+- Worked with product and engineering stakeholders to move ideas from discovery and prototyping toward production.
+
+### Senior Technology Consultant · EY
+`2023–2025` · Enterprise digital transformation
+
+- Served as a technical reference in complex and regulated corporate projects, including work delivered for Petrobras.
+- Contributed end to end to a React and Python solution for processing and querying large datasets from gas refineries.
+- Worked on requirements refinement, data modeling, architecture decisions, APIs, integrations, troubleshooting, and production evolution.
+- Established development and documentation practices focused on security, maintainability, and delivery quality.
+
+### Frontend Engineer · Movidesk
+`2021–2023` · Customer service SaaS
+
+- Built and evolved React and TypeScript features integrated with REST and GraphQL services.
+- Collaborated with product, design, and engineering on usability, consistency, performance, and production support.
+
+### Front-end Developer · NZN
+`2020–2021` · High-traffic digital media
+
+- Developed React and Next.js applications for content products with a large audience.
+- Worked with SSR, responsive interfaces, API integrations, web performance, and application stability.
+
+<details>
+<summary><strong>Earlier experience</strong></summary>
+<br />
+
+- **Agência Polvo — Front-end Developer (2018–2020):** responsive websites and web applications for clients across multiple industries.
+- **SpiritShop Ecommerce Solutions — Web Developer (2012–2018):** full stack development and support for e-commerce platforms, including storefronts, business rules, APIs, databases, catalog, and checkout journeys.
+
+</details>
+
+## Public projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### [LLM Embeddings Proxy](https://github.com/renanlopesp/llm-embeddings-proxy)
-A small OpenAI-compatible embeddings proxy with bearer-token protection, health checks, Docker setup, and a minimal deployment footprint.
+
+OpenAI-compatible embeddings proxy with bearer-token protection, health checks, environment-based configuration, and Docker deployment.
 
 `Node.js` `OpenAI API` `Embeddings` `Docker`
 
-### [TypeGraphQL User Login](https://github.com/renanlopesp/user-login-typescript)
-Authentication reference built with TypeScript, GraphQL, Express, Apollo Server, Redis sessions, TypeORM, and Jest.
+</td>
+<td width="50%" valign="top">
 
-`TypeScript` `GraphQL` `Express` `Redis` `Jest`
+### [TypeGraphQL User Login](https://github.com/renanlopesp/user-login-typescript)
+
+Authentication reference covering registration, confirmation, login, sessions, password recovery, GraphQL complexity control, and automated tests.
+
+`TypeScript` `GraphQL` `Express` `Apollo` `Redis` `TypeORM` `Jest`
+
+</td>
+</tr>
+</table>
+
+## What I bring to a team
+
+- Hands-on implementation across frontend, backend, integrations, and AI capabilities
+- Senior-level ownership of ambiguous and technically complex problems
+- Experience with enterprise consulting and long-lived product codebases
+- Clear communication between engineering, product, design, and business stakeholders
+- Focus on pragmatic architecture, maintainability, reliability, and measurable product value
+
+## Education
+
+- **Technology degree in Multimedia Production** — Centro Universitário UniOpet
+- **Machine Learning specialization coursework** — Centro Universitário UniOpet
 
 ## Current focus
 
-- Full stack applications with Node.js, TypeScript, React, and Next.js
-- Generative AI systems using agents, RAG, function calling, and embeddings
-- Reliable APIs, integrations, observability, and developer experience
+I am currently focused on:
 
-## Contact
+- production-oriented applications with Node.js, TypeScript, React, and Next.js;
+- LLM agents, RAG pipelines, function calling, and semantic retrieval;
+- reliable APIs, observability, developer experience, and scalable architecture.
 
-I am based in **Curitiba, Brazil**, and open to remote opportunities involving senior full stack or AI-enabled product engineering.
+## Let's connect
 
-- [linkedin.com/in/renan-lopes](https://www.linkedin.com/in/renan-lopes/)
-- [renanlopesp@gmail.com](mailto:renanlopesp@gmail.com)
+I'm open to remote opportunities involving **Senior Software Engineering, Full Stack Development, Frontend Engineering, or AI-enabled product development**.
+
+- **LinkedIn:** [linkedin.com/in/renan-lopes](https://www.linkedin.com/in/renan-lopes/)
+- **Email:** [renanlopesp@gmail.com](mailto:renanlopesp@gmail.com)
+- **Location:** Curitiba, Brazil

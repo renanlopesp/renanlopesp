@@ -1,24 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-  <title id="title">Renan Lopes — Senior Full Stack Engineer</title>
-  <desc id="desc">Professional profile banner in navy and teal</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Renan Lopes — Senior Software Engineer</title>
+  <description id="description">Full Stack, Frontend and AI Engineering</description>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0f1f33"/>
-      <stop offset="1" stop-color="#173b4a"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1829"/>
+      <stop offset="0.58" stop-color="#112c3d"/>
+      <stop offset="1" stop-color="#124a52"/>
     </linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+    <radialGradient id="glow" cx="80%" cy="30%" r="70%">
+      <stop offset="0" stop-color="#21c4c7" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#21c4c7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#fff" stroke-opacity="0.045"/>
     </pattern>
   </defs>
-  <rect width="1200" height="280" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="280" rx="18" fill="url(#grid)"/>
-  <rect x="70" y="67" width="6" height="146" rx="3" fill="#18b5b9"/>
-  <text x="105" y="130" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Renan Lopes</text>
-  <text x="107" y="174" fill="#77d8da" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600" letter-spacing="1.2">SENIOR FULL STACK ENGINEER</text>
-  <text x="107" y="210" fill="#c8d6df" font-family="Arial, Helvetica, sans-serif" font-size="19">Node.js · TypeScript · React · Next.js · Generative AI</text>
-  <g transform="translate(970 68)" fill="none" stroke="#77d8da" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.75">
-    <path d="M20 34 70 5l50 29v58l-50 29-50-29Z"/>
-    <path d="m70 5 50 29-50 29-50-29m50 29v58"/>
-    <circle cx="20" cy="34" r="5" fill="#77d8da"/><circle cx="120" cy="34" r="5" fill="#77d8da"/><circle cx="70" cy="121" r="5" fill="#77d8da"/>
+
+  <rect width="1200" height="300" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#glow)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+
+  <rect x="68" y="62" width="6" height="176" rx="3" fill="#24c4c7"/>
+  <text x="106" y="126" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700">Renan Lopes</text>
+  <text x="108" y="170" fill="#80e1e2" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="1.4">SENIOR SOFTWARE ENGINEER</text>
+  <text x="108" y="210" fill="#d3e0e7" font-family="Arial, Helvetica, sans-serif" font-size="20">Full Stack · Frontend · AI Engineering</text>
+  <text x="108" y="240" fill="#93a9b5" font-family="Arial, Helvetica, sans-serif" font-size="16">Node.js · TypeScript · React · Next.js · Python · LLMs</text>
+
+  <g transform="translate(965 68)" fill="none" stroke="#80e1e2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.78">
+    <path d="M14 44 76 8l62 36v72l-62 36-62-36Z"/>
+    <path d="m76 8 62 36-62 36-62-36m62 36v72"/>
+    <path d="m14 116 62-36 62 36" opacity="0.45"/>
+    <circle cx="14" cy="44" r="5" fill="#80e1e2"/>
+    <circle cx="138" cy="44" r="5" fill="#80e1e2"/>
+    <circle cx="76" cy="152" r="5" fill="#80e1e2"/>
   </g>
 </svg>
