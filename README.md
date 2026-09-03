@@ -6,10 +6,6 @@
   <a href="https://github.com/renanlopesp"><img src="https://img.shields.io/badge/GitHub-renanlopesp-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=renanlopesp&label=Profile%20views&color=0E7490&style=flat-square" alt="Profile views" />
-</p>
-
 ## Hello, I'm Renan
 
 I'm a **Senior Software Engineer** based in Curitiba, Brazil, with **15+ years of experience** building web products, SaaS platforms, high-traffic content applications, e-commerce systems, APIs, and AI-enabled solutions.
