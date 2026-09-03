@@ -74,18 +74,15 @@
     <rect width="1200" height="300" fill="url(#background)"/>
     <rect width="1200" height="300" fill="url(#glow)"/>
     <rect width="1200" height="300" fill="url(#grid)"/>
-    <circle cx="1030" cy="146" r="150" fill="#2ac4c6" opacity="0.035"/>
   </g>
 
   <rect x="68" y="62" width="6" height="176" rx="3" fill="#32cfd1"/>
-  <text x="106" y="126" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700">Renan Lopes</text>
-  <text x="108" y="170" fill="#83e5e6" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="1.4">SENIOR SOFTWARE ENGINEER</text>
-  <text x="108" y="210" fill="#d3e0e7" font-family="Arial, Helvetica, sans-serif" font-size="20">Full Stack · Frontend · AI Engineering</text>
-  <text x="108" y="240" fill="#93a9b5" font-family="Arial, Helvetica, sans-serif" font-size="16">Building useful software from discovery to production<tspan class="cursor" fill="#83e5e6">_</tspan></text>
+  <text x="106" y="106" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700">Renan Lopes</text>
+  <text x="108" y="150" fill="#83e5e6" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="1.4">SENIOR SOFTWARE ENGINEER</text>
+  <text x="108" y="200" fill="#d3e0e7" font-family="Arial, Helvetica, sans-serif" font-size="20">Full Stack · Frontend · AI Engineering</text>
+  <text x="108" y="230" fill="#93a9b5" font-family="Arial, Helvetica, sans-serif" font-size="16">Building useful software from discovery to production<tspan class="cursor" fill="#83e5e6">_</tspan></text>
 
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="846" y="62" fill="#a8bec8" font-size="13" font-weight="700" letter-spacing="1.8">IDEA → PRODUCTION</text>
-
     <line x1="864" y1="91" x2="864" y2="221" stroke="url(#rail)" stroke-width="2"/>
     <line class="flow" x1="864" y1="91" x2="864" y2="221" stroke="#83e5e6" stroke-width="2" opacity="0.56"/>
 
