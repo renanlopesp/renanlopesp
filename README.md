@@ -1,4 +1,4 @@
-<img src="./assets/header.svg?v=2" width="100%" alt="Renan Lopes — Senior Software Engineer, Full Stack and AI" />
+<img src="./assets/header.svg?v=3" width="100%" alt="Renan Lopes — Senior Software Engineer, Full Stack and AI" />
 
 <p align="center">
   <a href="mailto:renanlopesp@gmail.com"><img src="https://img.shields.io/badge/Email-renanlopesp%40gmail.com-124E66?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;

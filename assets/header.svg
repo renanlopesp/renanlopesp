@@ -1,37 +1,116 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
   <title id="title">Renan Lopes — Senior Software Engineer</title>
-  <description id="description">Full Stack, Frontend and AI Engineering</description>
+  <description id="description">Senior Software Engineer working from product discovery to production delivery</description>
+
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1829"/>
-      <stop offset="0.58" stop-color="#112c3d"/>
-      <stop offset="1" stop-color="#124a52"/>
+      <stop offset="0" stop-color="#091725"/>
+      <stop offset="0.62" stop-color="#102c3a"/>
+      <stop offset="1" stop-color="#10464d"/>
     </linearGradient>
-    <radialGradient id="glow" cx="80%" cy="30%" r="70%">
-      <stop offset="0" stop-color="#21c4c7" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#21c4c7" stop-opacity="0"/>
+    <radialGradient id="glow" cx="83%" cy="42%" r="55%">
+      <stop offset="0" stop-color="#32d1d3" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#32d1d3" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="rail" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#75e1e2" stop-opacity="0.28"/>
+      <stop offset="0.5" stop-color="#75e1e2" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#75e1e2" stop-opacity="0.28"/>
+    </linearGradient>
+    <filter id="softGlow" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
     <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
-      <path d="M42 0H0V42" fill="none" stroke="#fff" stroke-opacity="0.045"/>
+      <path d="M42 0H0V42" fill="none" stroke="#fff" stroke-opacity="0.038"/>
     </pattern>
+    <clipPath id="frame">
+      <rect width="1200" height="300" rx="20"/>
+    </clipPath>
+
+    <style>
+      .stage {
+        animation: stage-focus 4.8s ease-in-out infinite;
+      }
+      .stage-two { animation-delay: 1.6s; }
+      .stage-three { animation-delay: 3.2s; }
+      .halo {
+        transform-box: fill-box;
+        transform-origin: center;
+        animation: halo-pulse 4.8s ease-out infinite;
+      }
+      .stage-two .halo { animation-delay: 1.6s; }
+      .stage-three .halo { animation-delay: 3.2s; }
+      .flow {
+        stroke-dasharray: 4 9;
+        animation: rail-flow 2.4s linear infinite;
+      }
+      .cursor {
+        animation: cursor-blink 1.1s steps(2, end) infinite;
+      }
+      @keyframes stage-focus {
+        0%, 24%, 100% { opacity: 0.55; }
+        8%, 17% { opacity: 1; }
+      }
+      @keyframes halo-pulse {
+        0%, 25%, 100% { opacity: 0; transform: scale(0.6); }
+        10% { opacity: 0.28; transform: scale(1.8); }
+        20% { opacity: 0; transform: scale(2.4); }
+      }
+      @keyframes rail-flow {
+        to { stroke-dashoffset: -26; }
+      }
+      @keyframes cursor-blink {
+        50% { opacity: 0; }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .stage, .halo, .flow, .cursor { animation: none; }
+        .stage { opacity: 1; }
+        .halo { opacity: 0; }
+      }
+    </style>
   </defs>
 
-  <rect width="1200" height="300" rx="20" fill="url(#background)"/>
-  <rect width="1200" height="300" rx="20" fill="url(#glow)"/>
-  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#background)"/>
+    <rect width="1200" height="300" fill="url(#glow)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <circle cx="1030" cy="146" r="150" fill="#2ac4c6" opacity="0.035"/>
+  </g>
 
-  <rect x="68" y="62" width="6" height="176" rx="3" fill="#24c4c7"/>
-  <text x="106" y="126" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700">Renan Lopes</text>
-  <text x="108" y="170" fill="#80e1e2" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="1.4">SENIOR SOFTWARE ENGINEER</text>
+  <rect x="68" y="62" width="6" height="176" rx="3" fill="#32cfd1"/>
+  <text x="106" y="126" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700">Renan Lopes</text>
+  <text x="108" y="170" fill="#83e5e6" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="1.4">SENIOR SOFTWARE ENGINEER</text>
   <text x="108" y="210" fill="#d3e0e7" font-family="Arial, Helvetica, sans-serif" font-size="20">Full Stack · Frontend · AI Engineering</text>
-  <text x="108" y="240" fill="#93a9b5" font-family="Arial, Helvetica, sans-serif" font-size="16">Node.js · TypeScript · React · Next.js · Python · LLMs</text>
+  <text x="108" y="240" fill="#93a9b5" font-family="Arial, Helvetica, sans-serif" font-size="16">Building useful software from discovery to production<tspan class="cursor" fill="#83e5e6">_</tspan></text>
 
-  <g transform="translate(965 68)" fill="none" stroke="#80e1e2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.78">
-    <path d="M14 44 76 8l62 36v72l-62 36-62-36Z"/>
-    <path d="m76 8 62 36-62 36-62-36m62 36v72"/>
-    <path d="m14 116 62-36 62 36" opacity="0.45"/>
-    <circle cx="14" cy="44" r="5" fill="#80e1e2"/>
-    <circle cx="138" cy="44" r="5" fill="#80e1e2"/>
-    <circle cx="76" cy="152" r="5" fill="#80e1e2"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="846" y="62" fill="#a8bec8" font-size="13" font-weight="700" letter-spacing="1.8">IDEA → PRODUCTION</text>
+
+    <line x1="864" y1="91" x2="864" y2="221" stroke="url(#rail)" stroke-width="2"/>
+    <line class="flow" x1="864" y1="91" x2="864" y2="221" stroke="#83e5e6" stroke-width="2" opacity="0.56"/>
+
+    <g class="stage stage-one">
+      <circle class="halo" cx="864" cy="101" r="8" fill="#6ed9db" filter="url(#softGlow)"/>
+      <circle cx="864" cy="101" r="6" fill="#102c3a" stroke="#83e5e6" stroke-width="2"/>
+      <circle cx="864" cy="101" r="2" fill="#83e5e6"/>
+      <text x="889" y="98" fill="#ffffff" font-size="15" font-weight="700" letter-spacing="0.8">DISCOVER</text>
+      <text x="889" y="118" fill="#9fb4bf" font-size="13">Understand the problem</text>
+    </g>
+
+    <g class="stage stage-two">
+      <circle class="halo" cx="864" cy="156" r="8" fill="#6ed9db" filter="url(#softGlow)"/>
+      <circle cx="864" cy="156" r="6" fill="#102c3a" stroke="#83e5e6" stroke-width="2"/>
+      <circle cx="864" cy="156" r="2" fill="#83e5e6"/>
+      <text x="889" y="153" fill="#ffffff" font-size="15" font-weight="700" letter-spacing="0.8">ENGINEER</text>
+      <text x="889" y="173" fill="#9fb4bf" font-size="13">Design and build the system</text>
+    </g>
+
+    <g class="stage stage-three">
+      <circle class="halo" cx="864" cy="211" r="8" fill="#6ed9db" filter="url(#softGlow)"/>
+      <circle cx="864" cy="211" r="6" fill="#102c3a" stroke="#83e5e6" stroke-width="2"/>
+      <circle cx="864" cy="211" r="2" fill="#83e5e6"/>
+      <text x="889" y="208" fill="#ffffff" font-size="15" font-weight="700" letter-spacing="0.8">DELIVER</text>
+      <text x="889" y="228" fill="#9fb4bf" font-size="13">Ship, observe and improve</text>
+    </g>
   </g>
 </svg>
