@@ -85,6 +85,8 @@ My background combines strong frontend engineering with backend development, sys
   <img src="https://img.shields.io/badge/MySQL-245A72?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-A62C2B?style=flat&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/TypeORM-E43F32?style=flat&logo=typeorm&logoColor=white" alt="TypeORM" />
+  <img src="https://img.shields.io/badge/SurrealDB-7C3AED?style=flat&logo=surrealdb&logoColor=white" alt="SurrealDB" />
+  <img src="https://img.shields.io/badge/RabbitMQ-E85D04?style=flat&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/Vector_Databases-37474F?style=flat" alt="Vector Databases" />
 </p>
 
