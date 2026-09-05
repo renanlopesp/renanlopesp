@@ -101,6 +101,7 @@ My background combines strong frontend engineering with backend development, sys
   <img src="https://img.shields.io/badge/Software_Architecture-1F4E5F?style=flat" alt="Software Architecture" />
   <img src="https://img.shields.io/badge/Process_Automation-116466?style=flat" alt="Process Automation" />
   <img src="https://img.shields.io/badge/Jest-8C2F47?style=flat&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" alt="Vitest" />
 </p>
 
 ## Selected professional experience
