@@ -8,14 +8,14 @@
 
 ## Hello, I'm Renan
 
-I'm a **Senior Software Engineer** based in Curitiba, Brazil, with **15+ years of experience** building web products, SaaS platforms, high-traffic content applications, e-commerce systems, APIs, and AI-enabled solutions.
+I'm a **Senior Software Engineer** based in Curitiba, Brazil, experienced in building web products, SaaS platforms, high-traffic content applications, e-commerce systems, APIs, and AI-enabled solutions.
 
 My background combines strong frontend engineering with backend development, systems integration, cloud delivery, and recent hands-on work with Generative AI. I enjoy turning complex business requirements into practical, maintainable software—from interface and API design to production troubleshooting and technical direction.
 
-- **Full Stack:** Node.js, TypeScript, React, Next.js, Python, REST APIs
-- **AI Engineering:** LLMs, agents, RAG, function calling, embeddings, semantic search
-- **Architecture:** microservices, distributed systems, integrations, security, scalability
-- **Delivery:** AWS, Docker, Kubernetes, CI/CD, observability, production support
+- **Full Stack:** Node.js, TypeScript, React, Next.js, Python, Rust, REST APIs, GraphQL, WebSockets
+- **AI Engineering:** Generative AI, Machine Learning, LLMs, agents, RAG, MCP, multimodal AI, inference optimization
+- **Architecture:** microservices, distributed systems, software architecture, API integration, security, scalability
+- **Delivery:** AWS, Docker, Kubernetes, CI/CD, MLOps, LLMOps, observability, production support
 - **Collaboration:** technical leadership, architecture decisions, product discovery, stakeholder communication
 
 > Most of my enterprise work lives in private repositories. This profile highlights public reference projects and the technologies behind my professional experience.
@@ -32,34 +32,63 @@ My background combines strong frontend engineering with backend development, sys
   <img src="https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/HTML5-CB4B16?style=flat&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-245F9E?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind-0F7185?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F7185?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### Backend & Data
+### Backend & APIs
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-22633A?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-315A7D?style=flat&logo=python&logoColor=FFD343" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-252525?style=flat&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Express-343434?style=flat&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/REST_APIs-176B87?style=flat" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/PostgreSQL-315F8C?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-245A72?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-A62C2B?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/GraphQL-A72D8B?style=flat&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/WebSockets-455A64?style=flat" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/Microservices-465A65?style=flat" alt="Microservices" />
+  <img src="https://img.shields.io/badge/API_Integration-176B87?style=flat" alt="API Integration" />
 </p>
 
-### AI Engineering
+### AI & Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/LLMs-5B43D6?style=flat&logo=openai&logoColor=white" alt="Large Language Models" />
+  <img src="https://img.shields.io/badge/AI_Engineering-3846A3?style=flat" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/Generative_AI-5B43D6?style=flat&logo=openai&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Machine_Learning-4455A6?style=flat" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/LLMs-6B46C1?style=flat&logo=openai&logoColor=white" alt="Large Language Models" />
   <img src="https://img.shields.io/badge/AI_Agents-3F51B5?style=flat" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Multimodal_AI-5A4BA0?style=flat" alt="Multimodal AI" />
+  <img src="https://img.shields.io/badge/NLP-315A7D?style=flat" alt="Natural Language Processing" />
+  <img src="https://img.shields.io/badge/PyTorch-CC3C2D?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+</p>
+
+### LLM Systems & Automation
+
+<p>
   <img src="https://img.shields.io/badge/LangChain-176B5B?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-244C3C?style=flat&logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/RAG-7B3FA0?style=flat" alt="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/MCP-5C4EE5?style=flat" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-8E44AD?style=flat" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Function_Calling-6554C0?style=flat" alt="Function Calling" />
   <img src="https://img.shields.io/badge/Embeddings-3949AB?style=flat" alt="Embeddings" />
   <img src="https://img.shields.io/badge/Semantic_Search-00695C?style=flat" alt="Semantic Search" />
+  <img src="https://img.shields.io/badge/AI_Automation-3949AB?style=flat" alt="AI Automation" />
+  <img src="https://img.shields.io/badge/Model_Inference_Optimization-4C5C96?style=flat" alt="Model Inference Optimization" />
+  <img src="https://img.shields.io/badge/LLMOps-37474F?style=flat" alt="LLMOps" />
 </p>
 
-### Platform & Engineering
+### Data & Persistence
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-315F8C?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-245A72?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-A62C2B?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/TypeORM-E43F32?style=flat&logo=typeorm&logoColor=white" alt="TypeORM" />
+  <img src="https://img.shields.io/badge/Vector_Databases-37474F?style=flat" alt="Vector Databases" />
+</p>
+
+### Platform, Architecture & Delivery
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
@@ -68,6 +97,9 @@ My background combines strong frontend engineering with backend development, sys
   <img src="https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=FCC624" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-B6422D?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/CI%2FCD-00796B?style=flat" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/MLOps-37474F?style=flat" alt="MLOps" />
+  <img src="https://img.shields.io/badge/Software_Architecture-1F4E5F?style=flat" alt="Software Architecture" />
+  <img src="https://img.shields.io/badge/Process_Automation-116466?style=flat" alt="Process Automation" />
   <img src="https://img.shields.io/badge/Jest-8C2F47?style=flat&logo=jest&logoColor=white" alt="Jest" />
 </p>
 
