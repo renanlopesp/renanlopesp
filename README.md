@@ -145,31 +145,6 @@ My background combines strong frontend engineering with backend development, sys
 
 </details>
 
-## Public projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [LLM Embeddings Proxy](https://github.com/renanlopesp/llm-embeddings-proxy)
-
-OpenAI-compatible embeddings proxy with bearer-token protection, health checks, environment-based configuration, and Docker deployment.
-
-`Node.js` `OpenAI API` `Embeddings` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### [TypeGraphQL User Login](https://github.com/renanlopesp/user-login-typescript)
-
-Authentication reference covering registration, confirmation, login, sessions, password recovery, GraphQL complexity control, and automated tests.
-
-`TypeScript` `GraphQL` `Express` `Apollo` `Redis` `TypeORM` `Jest`
-
-</td>
-</tr>
-</table>
-
 ## What I bring to a team
 
 - Hands-on implementation across frontend, backend, integrations, and AI capabilities
